@@ -1,0 +1,49 @@
+#menucard {
+    padding: 10px;
+    border: 5px solid lightgrey;
+    margin: 20px;
+    background-color: rgb(255, 213, 189);
+}
+
+  h2{
+color: maroon;
+}
+
+.topnav {
+    overflow: hidden;
+    background-color: rgb(212, 106, 106);
+}
+  
+.topnav a {
+    float: left;
+    color: #701919;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+  
+.topnav a:hover {
+    background-color: rgb(253, 212, 136);
+    color: #701919;
+}
+  
+.topnav a.active {
+    background-color: #791919;
+    color: white;
+}
+
+a:link, a:visited {
+    background-color: #fca19b;
+    color: rgb(161, 40, 40);
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+
+  
+img {
+    width: 4cm;
+    float: right;
+}
